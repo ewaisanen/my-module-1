@@ -1,0 +1,28 @@
+{
+  "format_version": "0.1",
+  "title": "Test Module 1",
+  "creators": [
+    {
+      "name": "Ed"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "derived_from": [],
+  "external_resources": [],
+  "module_alias": "ewaisanen/my-module-1",
+  "version_label": "1.0.0",
+  "release_channel": "stable",
+  "discovery": {
+    "keywords": [
+      "food"
+    ],
+    "abstract": "Test module"
+  },
+  "profiles": {
+    "rendering": [
+      "omf-myst-0.1"
+    ]
+  },
+  "content_hash": "sha256:d93e6466c1df0423322c33c8ed17607deb749108e1b66850957881b113c74ac8",
+  "canonical_id": "omf:sha256:d93e6466c1df0423322c33c8ed17607deb749108e1b66850957881b113c74ac8"
+}
