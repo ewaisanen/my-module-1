@@ -1,6 +1,6 @@
 {
   "format_version": "0.1",
-  "title": "Test Module 1 (Remix)",
+  "title": "Test Module 1 (Remix) (Remix)",
   "creators": [
     {
       "name": "Ed"
@@ -8,6 +8,10 @@
   ],
   "license": "CC-BY-4.0",
   "derived_from": [
+    {
+      "canonical_id": "omf:sha256:d93e6466c1df0423322c33c8ed17607deb749108e1b66850957881b113c74ac8",
+      "relationship": "remix"
+    },
     {
       "canonical_id": "omf:sha256:d93e6466c1df0423322c33c8ed17607deb749108e1b66850957881b113c74ac8",
       "relationship": "remix"
